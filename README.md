@@ -11,6 +11,22 @@ Actors Used-:
 
 Software - StarUML
 
+List of Diagrams -:
+1) Class Diagram
+2) Usecase Diagram
+3) Package Diagram
+4) Activity Diagram
+5) Communication Diagram
+6) Sequence Diagram
+
+Procedure-:
+1. Define System Requirements: Outline the functional and non-functional requirements, such as user authentication and transaction processing.
+2. Identify Key Actors and Use Cases: Determine actors (e.g., customer, bank server) and define their interactions (e.g., withdraw, transfer funds).
+3. Design the System Architecture: Break down the system into components like ATM, banking server, and database.
+4. Create UML Diagrams: Develop use case, class, sequence, and activity diagrams based on the system design.
+5. Test and Validate: Perform testing to ensure the system meets functional requirements and security standards.
+
+
 # DIAGRAMS:
 ## CLASS DIAGRAM:
 ![ClassDiagram1](https://github.com/user-attachments/assets/53c07667-60ca-4470-9fc1-3ff89ec39353)
